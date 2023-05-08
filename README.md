@@ -1,1 +1,1 @@
-# polyglot-rogramming-ts-go-rust
+# polyglot-programming-ts-go-rust
